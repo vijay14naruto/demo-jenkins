@@ -4,6 +4,6 @@ def is_palindrome(text):
 # Example usage
 word = "madam"
 if is_palindrome(word):
-    print(f"'{word}' is a palindrome.")
+    print(f"'{word}' is palindrome.")
 else:
     print(f"'{word}' is not a palindrome.")
